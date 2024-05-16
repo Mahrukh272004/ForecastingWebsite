@@ -12,6 +12,11 @@ We have employed several forecasting models to predict future trends:
 - ARIMA (Autoregressive Integrated Moving Average)
 - ANN (Artificial Neural Networks)
 - Hybrid ARIMA-ANN
+- SVR
+- Prophet
+- SARIMA
+- ANN
+- ETS: Single,double and triple
 
 ## Frontend Dashboards
 ### Dashboard 1
