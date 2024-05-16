@@ -34,3 +34,8 @@ We have employed several forecasting models to predict future trends:
 - For any issues or feedback, please contact our support team.
 
 Thank you for using our Forecasting App! We hope you find it insightful and valuable for your forecasting needs.
+
+## How to run
+Open the frontend folder in vs code
+navigate to src folder
+write npm start 
